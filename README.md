@@ -9,7 +9,7 @@
 
 # 📊 GitHub Stats :
 <div align="center" style="display: flex; flex-wrap: nowrap;">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gaurav13020&theme=cobalt)" alt="soumya"/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gaurav13020&theme=cobalt)" alt="gaurav"/>
 </div>
 <div align="center" style="display: flex; flex-wrap: nowrap;">
     <img width="39%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gaurav13020&theme=cobalt)&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="soumya"/>
