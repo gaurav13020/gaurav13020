@@ -44,3 +44,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/gaurav13020) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/gaurav13020) 
+  <div align="center">
+<img src= "https://media2.giphy.com/media/5xtDarmwsuR9sDRObyU/giphy.gif?cid=ecf05e475umbdjo944srf0jjqukjmklmdap60uxka1m3gxdc&rid=giphy.gif&ct=g" />
+</div>
+
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
