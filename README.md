@@ -19,8 +19,8 @@
 # 📊 GitHub Stats :
 
 <div align="center" style="display: flex; flex-wrap: nowrap;">
-    <img width="40%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gaurav13020&theme=cobalt" alt="gaurav"/>
-    <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=gaurav13020&theme=radical&hide_border=true" alt="gaurav" />
+    <img width="30%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gaurav13020&theme=cobalt" alt="gaurav"/>
+    <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=gaurav13020&theme=radical&hide_border=true" alt="gaurav" />
 </div>
 
 # 💻 Tech Stack:
