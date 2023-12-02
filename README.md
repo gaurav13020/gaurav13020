@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=35&duration=2000&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hi!+%F0%9F%91%8B+I'm+Gaurav+Singh;Currently+Learning+Deep+Learning;Nice+to+meet+you..." alt="Typing SVG" /></a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=35&duration=2000&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hi!+%F0%9F%91%8B+I'm+Gaurav+Singh;Currently+Learning+Deep+Learning;Nice+to+meet+you...)](https://git.io/typing-svg)
 
 # 💫 About Me:
 🧠 Machine Learning enthusiast exploring NLP and computer vision.<br>👥 Actively collaborating on open-source ML projects.<br>🚀 Proficient in TensorFlow, PyTorch, and ML model development.<br>🌐 Interested in interdisciplinary ML applications.<br>💬 Let's discuss ML research, trends, or any intriguing ideas.<br>⚙️ Currently focused on ML deployment methodologies.<br>⭐️ Fun fact: I'm on a mission to make ML accessible to all.
