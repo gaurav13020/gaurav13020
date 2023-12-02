@@ -19,7 +19,7 @@
 # 📊 GitHub Stats :
 
 <div align="center" style="display: flex; flex-wrap: nowrap;">
-    <img width="39%" src="https://github-readme-stats.vercel.app/api?username=gaurav13020&theme=merko&hide_border=true&include_all_commits=false&count_private=false" alt="soumya"/>
+    <img width="39%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gaurav13020&theme=cobalt)" alt="soumya"/>
     <img width="42.4%" src="https://github-readme-streak-stats.herokuapp.com/?user=gaurav13020&theme=merko&hide_border=true" alt="soumya" />
 </div>
 
