@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-🧠 Machine Learning enthusiast exploring NLP and computer vision.<br>👥 Actively collaborating on open-source ML projects.<br>🚀 Proficient in TensorFlow, PyTorch, and ML model development.<br>🌐 Interested in interdisciplinary ML applications.<br>💬 Let's discuss ML research, trends, or any intriguing ideas.<br>⚙️ Currently focused on ML deployment methodologies.<br>⭐️ Fun fact: I'm on a mission to make ML accessible to all.
+🧠 Machine Learning enthusiast exploring NLP and computer vision.<br>👥 Actively collaborating on open-source ML projects.<br>🚀 Proficient in PyTorch, Numpy and ML model development.<br>🌐 Interested in interdisciplinary ML applications.<br>💬 Let's discuss ML research, trends, or any intriguing ideas.<br>⚙️ Currently focused on ML deployment methodologies.<br>⭐️ Fun fact: I'm on a mission to make ML accessible to all.
 
 
 ## 🌐 Socials:
