@@ -12,8 +12,7 @@
 
 ---
 
-
-<h1 align="left">Techstack</h1>
+## 💻 Techstack:
 
 ###
 
