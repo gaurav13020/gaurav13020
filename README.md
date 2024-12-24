@@ -7,7 +7,7 @@
 
 ## 🌐 Socials:
 <div align="left">
-  a href="https://gauravsingh.live" target="_blank">
+  <a href="https://gauravsingh.live" target="_blank">
     <img src="https://img.shields.io/badge/My%20website-8A2BE2" width="52" height="40" alt="codesandbox logo"  />
   </a>
   <a href="https://linkedin.com/in/gaurav13020" target="_blank">
