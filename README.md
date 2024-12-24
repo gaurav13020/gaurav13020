@@ -6,7 +6,7 @@
 
 
 ## 🌐 Socials:
-[![Portfolio](https://img.shields.io/badge/My%20website-8A2BE2)](https://gauravsingh.vercel.app) [![LinkedIn](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg)](https://linkedin.com/in/gaurav13020) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gaurav13020)  
+[![Portfolio](https://img.shields.io/badge/My%20website-8A2BE2)](https://gauravsingh.vercel.app) [![LinkedIn](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg)](https://linkedin.com/in/gaurav13020) [![Instagram](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg)](https://instagram.com/gaurav13020) [![Gmail](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg)](mailto:gauravsingh13020@gmail.com?subject=Hello%2C%20Gaurav!!!) 
 
 
 
