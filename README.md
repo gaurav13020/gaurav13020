@@ -11,13 +11,13 @@
     <img src="https://img.shields.io/badge/My%20website-8A2BE2" width="150" height="40" alt="codesandbox logo"  />
   </a>
   <a href="https://linkedin.com/in/gaurav13020" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" style="padding: 10px;"/>
   </a>
   <a href="https://instagram.com/notgauravsingh" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" style="padding: 10px;"/>
   </a>
   <a href="mailto:gauravsingh13020@gmail.com?subject=Hello%2C%20Gaurav!!!" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" style="padding: 10px;" />
   </a>
 </div>
 
